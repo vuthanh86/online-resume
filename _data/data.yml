@@ -15,11 +15,11 @@ sidebar:
     # Sidebar links
     email: vuthanh20286@gmail.com
     phone: +84 7722 88868
-    timezone: GMT+7
-    citizenship: Vietnam
-    website: vuthanh86.github.io/online-resume #do not add http://
+    timezone: GMT+7 Vietnam, Hanoi
+    citizenship:    
     github: vuthanh86
-    linkedin: vuthanh86    
+    linkedin: vuthanh86
+    website: vuthanh86.github.io/online-resume #do not add http://
     pdf: https://github.com/vuthanh86/online-resume/CV_ThanhVuXuan_Jan-2023.pdf
 
     languages:
@@ -161,7 +161,6 @@ experiences:
           -	Perform full unit test on the assigned tasks, Incident and bug resolving
           -	Support/mentor team, code review
 
-
 certifications:
       title: Certifications
       list:
@@ -293,7 +292,5 @@ skills:
       - name: Redis, MongoDb
         level: 80%
 
-
-
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. &copy; or &#169; <a href="https://github.com/vuthanh86" target="_blank" rel="nofollow">Thanh Vu</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. Copyright <a href="https://github.com/vuthanh86" target="_blank" rel="nofollow">Thanh Vu</a>
