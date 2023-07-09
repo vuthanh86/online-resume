@@ -18,6 +18,7 @@ sidebar:
     timezone: GMT+7 Vietnam, Hanoi
     citizenship:
     website: vuthanh86.github.io/online-resume #do not add http://
+    github: vuthanh86
     linkedin: vuthanh86    
     pdf: https://github.com/vuthanh86/online-resume/CV_ThanhVuXuan_Jan-2023.pdf
 
@@ -51,7 +52,7 @@ career-profile:
       Possesses a strong understanding of SOLID principles       and Test-Driven Development (TDD) practices, 
       ensuring high-quality code and maintainable software solutions.
 
-      ### Key Skills:
+      #### Key Skills ####
       - Cloud Computing: Experienced in utilizing Azure DevOps and implementing CI/CD processes to automate software development, testing, and deployment.
       Proficient in cloud infrastructure management, leveraging cloud services for scalability, 
       and implementing Microservices architectures for highly scalable and resilient applications.
@@ -79,8 +80,10 @@ experiences:
     info:
       - role: Senior fullstack .NET
         time: 2012 - Present
-        company: Key Consulting France
+        company: Key Consulting, France
         details: |
+          Project: In-house ERP systems
+
           In-house ERP application(s) to support company's services in Import/Export manufacture. 
           
           Progamming
@@ -95,28 +98,45 @@ experiences:
           -	Maintenance system, Production incident supports
           - Monitoring applications Healthy, performance to identify the slow point then planning to enhance
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: .NET Technical Leader
+        time: 2020 - 2021
+        company: Nashtech, Vietnam
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Project: Insurance Platform
+
+          Building the Microservices Insurance Booking Platform. 
+          This application based on different software architecture and technologies like:
+          -.Net Core, CQRS, DDD, Vertical Slice Architecture, Docker, Jenkin, ocelot API gateway proxy, Identity Server, Redis, SqlServer, Entity Framework Core, and different level of testing.
+          
+          Progamming
+          -	Microservices integrate with Azure Cloud Computing
+          -	NET Core 3.1, ASP.NET Core, Web API, SQL Server
+          -	NUnit, Moq, CI/CD with Docker
+          -	Source repository:Git
+
+          Responsibility
+          - Proposal the technical appoarch to resolve bussiness need.
+          - Design/Develop new features as customer requirement.
+          -	Maintenance system, Production incident supports.
+          - Code review
+
+      - role: Senior .NET Developer
+        time: 2020 - 2020
+        company: Kofax, Vietnam
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Project: Business Connect
+
+          Develop enterprice application/services to interactive with the MFP (Multi-Function Printer) device.
+          
+          Progamming
+          -	NET FW 4.5, ASP.NET Web API (interactive with Mobile App),  ASP.NET MVC (CSM systems to manage client configurations)
+          -	NUnit, Moq, CI/CD (Jenkin)
+          -	SQL Server
+          -	Git
+
+          Responsibility
+          -	Develop new features as request
+          -	Maintenance, resolve issue of existing system
 
 certifications:
       title: Certifications
