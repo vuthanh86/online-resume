@@ -3,109 +3,84 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Thanh Vu Xuan
+    tagline: Full Stack .NET Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: vuthanh20286@gmail.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone: GMT+7 Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    website: vuthanh86.github.io/online-resume #do not add http://
+    linkedin: vuthanh86
+    github: vuthanh86
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Vietnam
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm Fullstack Developer with expertise in cloud computing, Microsoft stacks, mobile development, and software development principles.
+      Proficient in leveraging cloud technologies, such as Azure DevOps, to streamline the CI/CD process and implement scalable Microservices architectures.
+      Skilled in developing robust applications using Microsoft stacks, including C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, and MSSQL Database.
+      Familiar with the Ionic framework and AngularJS for cross-platform mobile app development. Possesses a strong understanding of SOLID principles 
+      and Test-Driven Development (TDD) practices, ensuring high-quality code and maintainable software solutions.
+      Key Skills:
+      Cloud Computing: Experienced in utilizing Azure DevOps and implementing CI/CD processes to automate software development, testing, and deployment.
+      Proficient in cloud infrastructure management, leveraging cloud services for scalability, and implementing Microservices architectures for highly scalable and resilient applications.
+
+      Microsoft Stacks: Proficient in developing web applications using Microsoft stacks, including C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, and MSSQL Database.
+      Skilled in utilizing these technologies to build efficient and reliable solutions that meet business requirements.
+
+      Mobile Development: Familiar with the Ionic framework and AngularJS, enabling the development of cross-platform mobile applications.
+      Experienced in building hybrid mobile apps that deliver a seamless and engaging user experience across multiple devices.
+
+      SOLID and TDD Principles: Strong knowledge of SOLID principles, emphasizing clean code architecture and maintainable software design.
+      Proficient in implementing Test-Driven Development (TDD) practices, ensuring high code quality, reliability, and test coverage.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Computer Science
+        university: FPT University
+        time: 2017 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 experiences:
-    title: Experiences
+    title: Working experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior fullstack .NET
+        time: 2012 - Present
+        company: Key Consulting France
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          In-house ERP application(s) to support company's services in Import/Export manufacture. 
+          
+          Progamming
+          -	Programing: NET FW 4.8, Web API, WC, ASP.NET Core 2.x.
+          -	Test Framework: NUnit3, Moq
+          -	Database: MS SQL
+          -	Cloud computing: the application services hosted on MS Azure. CI/CD pipelines managed by Azure DevOps
+          -	Source repository: Git
+
+          Responsibility:
+          - Develop new features as customer requirement.
+          -	Maintenance system, Production incident supports
+          - Monitoring applications Healthy, performance to identify the slow point then planning to enhance
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
