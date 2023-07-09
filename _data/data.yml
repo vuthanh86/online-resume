@@ -8,27 +8,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Thanh Vu Xuan
+    name: Thanh Vu
     tagline: Full Stack .NET Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: vuthanh20286@gmail.com
-    phone: 012 345 6789
-    timezone: GMT+7 Timezone
+    phone: +84 77 22 88868
+    timezone: GMT+7 Vietnam, Hanoi
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    website: vuthanh86.github.io/online-resume #do not add http://
+    linkedin: vuthanh86    
+    pdf: https://github.com/vuthanh86/online-resume/CV_ThanhVuXuan_Jan-2023.pdf
 
     languages:
       title: Languages
@@ -42,34 +33,37 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Code for food
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I'm Fullstack Developer with expertise in cloud computing, Microsoft stacks, mobile development, and software development principles.
-      Proficient in leveraging cloud technologies, such as Azure DevOps, to streamline the CI/CD process and implement scalable Microservices architectures.
-      Skilled in developing robust applications using Microsoft stacks, including C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, and MSSQL Database.
-      Familiar with the Ionic framework and AngularJS for cross-platform mobile app development. Possesses a strong understanding of SOLID principles 
-      and Test-Driven Development (TDD) practices, ensuring high-quality code and maintainable software solutions.
-      Key Skills:
-      Cloud Computing: Experienced in utilizing Azure DevOps and implementing CI/CD processes to automate software development, testing, and deployment.
-      Proficient in cloud infrastructure management, leveraging cloud services for scalability, and implementing Microservices architectures for highly scalable and resilient applications.
+      I'm Fullstack Developer with expertise in cloud computing, mobile development, and software development principles.
+      Proficient in leveraging cloud technologies, such as Azure DevOps, 
+      to streamline the CI/CD process and implement scalable Microservices architectures.
+      
+      Skilled in developing robust applications using Microsoft stacks such as:
+      - C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, and MSSQL Database.
+      
+      Familiar with the Ionic framework and AngularJS for cross-platform mobile app development.
+      
+      Possesses a strong understanding of SOLID principles       and Test-Driven Development (TDD) practices, 
+      ensuring high-quality code and maintainable software solutions.
 
-      Microsoft Stacks: Proficient in developing web applications using Microsoft stacks, including C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, and MSSQL Database.
+      ### Key Skills:
+      - Cloud Computing: Experienced in utilizing Azure DevOps and implementing CI/CD processes to automate software development, testing, and deployment.
+      Proficient in cloud infrastructure management, leveraging cloud services for scalability, 
+      and implementing Microservices architectures for highly scalable and resilient applications.
+
+      - Microsoft Stacks: Proficient in developing web applications using Microsoft stacks, including:
+      C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, and MSSQL Database.
       Skilled in utilizing these technologies to build efficient and reliable solutions that meet business requirements.
 
-      Mobile Development: Familiar with the Ionic framework and AngularJS, enabling the development of cross-platform mobile applications.
+      - Mobile Development: Familiar with the Ionic framework and AngularJS, enabling the development of cross-platform mobile applications.
       Experienced in building hybrid mobile apps that deliver a seamless and engaging user experience across multiple devices.
 
-      SOLID and TDD Principles: Strong knowledge of SOLID principles, emphasizing clean code architecture and maintainable software design.
+      - SOLID and TDD Principles: Strong knowledge of SOLID principles, emphasizing clean code architecture and maintainable software design.
       Proficient in implementing Test-Driven Development (TDD) practices, ensuring high code quality, reliability, and test coverage.
 
 education:
