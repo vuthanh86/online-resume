@@ -17,9 +17,18 @@ sidebar:
     phone: 012 345 6789
     timezone: GMT+7 Timezone
     citizenship:
-    website: vuthanh86.github.io/online-resume #do not add http://
-    linkedin: vuthanh86
-    github: vuthanh86
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -30,6 +39,17 @@ sidebar:
         - idiom: English
           level: Professional
 
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
+
+        - item: Snowboarding
+          link:
+
+        - item: Cooking
+          link:
 
 career-profile:
     title: Career Profile
@@ -61,7 +81,7 @@ education:
         details: |
           
 experiences:
-    title: Experiences
+    title: Working experiences
     info:
       - role: Senior fullstack .NET
         time: 2012 - Present
