@@ -14,9 +14,9 @@ sidebar:
 
     # Sidebar links
     email: vuthanh20286@gmail.com
-    phone: +84 77 22 88868
-    timezone: GMT+7 Vietnam, Hanoi
-    citizenship:
+    phone: +84 7722 88868
+    timezone: GMT+7
+    citizenship: Vietnam
     website: vuthanh86.github.io/online-resume #do not add http://
     github: vuthanh86
     linkedin: vuthanh86    
@@ -38,7 +38,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Curriculum Vitae
     summary: |
       I'm Fullstack Developer with expertise in cloud computing, mobile development, and software development principles.
       Proficient in leveraging cloud technologies, such as Azure DevOps, 
@@ -137,6 +137,30 @@ experiences:
           Responsibility
           -	Develop new features as request
           -	Maintenance, resolve issue of existing system
+
+      - role: Senior/Team Lead .NET Developer
+        time: 2017 - 2020
+        company: GoQuo, Vietnam
+        details: |
+          Project: eCommerce Platform (Back-end Traveling Booking)
+
+          The microservices booking hotel, travel platform. Delivery to client/customer the easy way to sale, ordering the trip in cheapest prices.
+          Our platform aggregates a large range of travel services including hotel bookings, car rentals, activities and tours, insurance, airport transfers...
+          
+          Progamming
+          -	NET core and Microservices is design to be deployed using Docker containers.
+          - Communication between bounded contexts through asynchronous `MessageBus` and `events`.
+          -	Communication internally between our microservices with `gRPC` synchronously.
+          - Implementing various types of testing like `Unit Testing`, `Integration Testing`.
+          -	PostgresSQL database
+          -	Git, Docker compose, Amazone Web Service
+
+          Responsibility
+          -	Create detailed designs for assigned tasks.
+          -	Write code based on detailed designs and Functional/Requirement Specifications
+          -	Perform full unit test on the assigned tasks, Incident and bug resolving
+          -	Support/mentor team, code review
+
 
 certifications:
       title: Certifications
@@ -251,23 +275,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C#, ASP.NET/CORE, MVC, API and Windows Form
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: HTML5, CSS, Javascript/jQuery and Angular
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Microsoft Azure
+        level: 70%
+
+      - name: Git and CI/CD
+        level: 90%
+
+      - name: MS SQL, PostgresSQL
+        level: 90%
+        
+      - name: Redis, MongoDb
+        level: 80%
+
+
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. &copy; or &#169; <a href="https://github.com/vuthanh86" target="_blank" rel="nofollow">Thanh Vu</a>
