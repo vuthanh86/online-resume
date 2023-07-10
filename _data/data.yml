@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Thanh Vu
-    tagline: Full Stack .NET Developer
+    tagline: Senior .NET Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -82,18 +82,18 @@ experiences:
         time: 2012 - Present
         company: Key Consulting, France
         details: |
-          Project: In-house ERP systems
+          `Project: In-house ERP systems`
 
           In-house ERP application(s) to support company's services in Import/Export manufacture. 
           
-          Progamming
-          -	Programing: NET FW 4.8, Web API, WC, ASP.NET Core 2.x.
+          `Progamming`
+          -	NET FW 4.8, Web API, WC, ASP.NET Core 2.x.
           -	Test Framework: NUnit3, Moq
           -	Database: MS SQL
           -	Cloud computing: the application services hosted on MS Azure. CI/CD pipelines managed by Azure DevOps
           -	Source repository: Git
 
-          Responsibility:
+          `Responsibility`
           - Develop new features as customer requirement.
           -	Maintenance system, Production incident supports
           - Monitoring applications Healthy, performance to identify the slow point then planning to enhance
@@ -102,19 +102,19 @@ experiences:
         time: 2020 - 2021
         company: Nashtech, Vietnam
         details: |
-          Project: Insurance Platform
+          `Project: Insurance Platform`
 
           Building the Microservices Insurance Booking Platform. 
           This application based on different software architecture and technologies like:
           -.Net Core, CQRS, DDD, Vertical Slice Architecture, Docker, Jenkin, ocelot API gateway proxy, Identity Server, Redis, SqlServer, Entity Framework Core, and different level of testing.
           
-          Progamming
+          `Progamming`
           -	Microservices integrate with Azure Cloud Computing
           -	NET Core 3.1, ASP.NET Core, Web API, SQL Server
           -	NUnit, Moq, CI/CD with Docker
           -	Source repository:Git
 
-          Responsibility
+          `Responsibility`
           - Proposal the technical appoarch to resolve bussiness need.
           - Design/Develop new features as customer requirement.
           -	Maintenance system, Production incident supports.
@@ -124,17 +124,17 @@ experiences:
         time: 2020 - 2020
         company: Kofax, Vietnam
         details: |
-          Project: Business Connect
+          `Project: Business Connect`
 
           Develop enterprice application/services to interactive with the MFP (Multi-Function Printer) device.
           
-          Progamming
+          `Progamming`
           -	NET FW 4.5, ASP.NET Web API (interactive with Mobile App),  ASP.NET MVC (CSM systems to manage client configurations)
           -	NUnit, Moq, CI/CD (Jenkin)
           -	SQL Server
           -	Git
 
-          Responsibility
+          `Responsibility`
           -	Develop new features as request
           -	Maintenance, resolve issue of existing system
 
@@ -142,12 +142,12 @@ experiences:
         time: 2017 - 2020
         company: GoQuo, Vietnam
         details: |
-          Project: eCommerce Platform (Back-end Traveling Booking)
+          `Project: eCommerce Platform`
 
           The microservices booking hotel, travel platform. Delivery to client/customer the easy way to sale, ordering the trip in cheapest prices.
           Our platform aggregates a large range of travel services including hotel bookings, car rentals, activities and tours, insurance, airport transfers...
           
-          Progamming
+          `Progamming`
           -	NET core and Microservices is design to be deployed using Docker containers.
           - Communication between bounded contexts through asynchronous `MessageBus` and `events`.
           -	Communication internally between our microservices with `gRPC` synchronously.
@@ -155,7 +155,7 @@ experiences:
           -	PostgresSQL database
           -	Git, Docker compose, Amazone Web Service
 
-          Responsibility
+          `Responsibility`
           -	Create detailed designs for assigned tasks.
           -	Write code based on detailed designs and Functional/Requirement Specifications
           -	Perform full unit test on the assigned tasks, Incident and bug resolving
@@ -296,4 +296,4 @@ skills:
         level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. Copyright <i class="fas fa-copyright"></i> <a href="https://github.com/vuthanh86" target="_blank" rel="nofollow">Thanh Vu</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> <i class="fas fa-copyright"></i> by <a href="https://github.com/vuthanh86" target="_blank" rel="nofollow">Thanh Vu</a>.
