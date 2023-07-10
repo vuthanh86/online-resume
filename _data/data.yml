@@ -41,30 +41,30 @@ career-profile:
     title: Curriculum Vitae
     summary: |
       I'm Fullstack Developer with expertise in cloud computing, mobile development, and software development principles.
-      Proficient in leveraging cloud technologies, such as Azure DevOps, 
-      to streamline the CI/CD process and implement scalable Microservices architectures.
+      Proficient in leveraging cloud technologies, such as `Azure DevOps`, 
+      to streamline the `CI/CD process` and implement scalable `Microservices` architectures.
       
       Skilled in developing robust applications using Microsoft stacks such as:
       - C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, and MSSQL Database.
       
       Familiar with the Ionic framework and AngularJS for cross-platform mobile app development.
       
-      Possesses a strong understanding of SOLID principles       and Test-Driven Development (TDD) practices, 
+      Possesses a strong understanding of SOLID principles and Test-Driven Development (TDD) practices, 
       ensuring high-quality code and maintainable software solutions.
 
       #### Key Skills ####
-      - Cloud Computing: Experienced in utilizing Azure DevOps and implementing CI/CD processes to automate software development, testing, and deployment.
+      - `Cloud Computing`: Experienced in utilizing Azure DevOps and implementing CI/CD processes to automate software development, testing, and deployment.
       Proficient in cloud infrastructure management, leveraging cloud services for scalability, 
       and implementing Microservices architectures for highly scalable and resilient applications.
 
-      - Microsoft Stacks: Proficient in developing web applications using Microsoft stacks, including:
+      - `Microsoft Stacks`: Proficient in developing web applications using Microsoft stacks, including:
       C#, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, and MSSQL Database.
       Skilled in utilizing these technologies to build efficient and reliable solutions that meet business requirements.
 
-      - Mobile Development: Familiar with the Ionic framework and AngularJS, enabling the development of cross-platform mobile applications.
+      - `Mobile Development`: Familiar with the Ionic framework and AngularJS, enabling the development of cross-platform mobile applications.
       Experienced in building hybrid mobile apps that deliver a seamless and engaging user experience across multiple devices.
 
-      - SOLID and TDD Principles: Strong knowledge of SOLID principles, emphasizing clean code architecture and maintainable software design.
+      - `SOLID and TDD Principles`: Strong knowledge of SOLID principles, emphasizing clean code architecture and maintainable software design.
       Proficient in implementing Test-Driven Development (TDD) practices, ensuring high code quality, reliability, and test coverage.
 
 education:
@@ -274,23 +274,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C#, ASP.NET/CORE, MVC, API and Windows Form
+      - name: C#, ASP.NET, ASP.NET CORE
         level: 95%
 
-      - name: HTML5, CSS, Javascript/jQuery and Angular
-        level: 90%
+      - name: HTML5, CSS, Js/jQuery 
+        level: 80%
+        
+      - name: Angular
+        level: 80%
 
       - name: Microsoft Azure
-        level: 70%
+        level: 80%
 
       - name: Git and CI/CD
         level: 90%
 
-      - name: MS SQL, PostgresSQL
+      - name: SQL Server, Postgres
         level: 90%
         
-      - name: Redis, MongoDb
+      - name: Redis, NoSQL
         level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. Copyright <a href="https://github.com/vuthanh86" target="_blank" rel="nofollow">Thanh Vu</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. Copyright <i class="fas fa-copyright"></i> <a href="https://github.com/vuthanh86" target="_blank" rel="nofollow">Thanh Vu</a>
