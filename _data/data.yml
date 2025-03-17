@@ -78,8 +78,8 @@ education:
 experiences:
     title: Working experiences
     info:
-      - role: Senior fullstack .NET
-        time: 2012 - Present
+      - role: Senior full stack .NET
+        time: 2022 - Present
         company: Key Consulting, France
         details: |
           `Project: In-house ERP systems`
